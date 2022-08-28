@@ -51,7 +51,7 @@ RUN apt-get update \
        f2fs-tools \
        fakeroot \
        flex \
-       g++-10-arm-linux-gnueabihf \
+       g++-11-arm-linux-gnueabihf \
        gawk \
        gcc-arm-linux-gnueabihf \
        gcc-arm-linux-gnueabi \
